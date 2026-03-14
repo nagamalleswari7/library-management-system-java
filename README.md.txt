@@ -54,5 +54,9 @@ javac -cp ".;lib/mysql-connector-j-9.6.0.jar" src/*.java
 
 
 4. Run the project
-
 java -cp ".;lib/mysql-connector-j-9.6.0.jar;src" Main
+
+
+## Program Menu
+
+![Library Menu](screenshots/menu-output.png)
